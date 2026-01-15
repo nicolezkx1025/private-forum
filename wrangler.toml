@@ -1,0 +1,8 @@
+name = "forum-worker"                  # 与 dashboard 的 Worker 名稱完全一樣
+main = "index.js"
+compatibility_date = "2026-01-15"
+
+
+# [[kv_namespaces]]
+# binding = "KV"
+# id = " KV ID 待添加"  # dashboard > Workers & Pages > KV > 待添加 namespace > Overview 看 ID
