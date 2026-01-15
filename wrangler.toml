@@ -1,5 +1,5 @@
 name = "forum-worker"                  # 与 dashboard 的 Worker 名稱完全一樣
-main = "index.html"
+main = "index.js"
 compatibility_date = "2026-01-15"
 
 

@@ -1,4 +1,4 @@
-const workerUrl = 'https://forum-worker.youraccount.workers.dev'; // 替换成你的Workers URL
+const workerUrl = 'https://forum-worker.kzhangas.workers.dev';
 
 // 加载帖子
 async function loadPosts() {
